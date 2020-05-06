@@ -1,0 +1,7 @@
+epoch,batch_num,accuracy,loss,truth_class
+1,0,0.3,0.6931357,Square
+3,5,0.45,0.6934541,Circle
+6,0,0.3,0.6971344,Square
+9,21,0.6136364,0.7200434,Circle
+12,0,0.4,0.78954685,Square
+15,0,0.5,0.6561769,Square
